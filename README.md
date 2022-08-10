@@ -3,7 +3,7 @@
 # Resumo do projeto
 SPA de um Pokedex utilizando NextJs
 <br/>
-Link : https://pokedex-em6pq73ds-alecsander-castro.vercel.app/
+Link : https://pokedex-pi-five.vercel.app
 
 # <h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
 
